@@ -1,0 +1,26 @@
+.up-down-counter-container{
+  .counter-timer{
+    margin-bottom: 80px;
+    font-size: 44px;
+  }
+  .counter-pause-resume,.counter-lap{
+    display: block;
+    width: 150px;;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .lap-history-container{
+    margin-top: 20px;
+    table{
+      margin-top: 20px;
+        border:2px solid white;
+        td,th{
+          border: 1px solid #61dafb;
+          padding: 10px;
+        }
+      }
+  }
+}
