@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A simple up-down counter where a user can specify the duration and interval.
 
+## Deployment
+
+You can check the app here [https://updowncounter.netlify.com/](https://updowncounter.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -62,9 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 
