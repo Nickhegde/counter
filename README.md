@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Counter
+
+A simple up-down counter where a user can specify the duration and interval.
 
 ## Available Scripts
 
