@@ -1,0 +1,16 @@
+.counters-container{
+  margin-top: 20px;
+  .reset-btn,.back-btn{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin: 10px;
+  }
+  .counters{
+    margin-top: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+  }
+}
